@@ -53,10 +53,31 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [Official documentation](https://neo4j.com/docs/)
 - [Cypher Refcard](https://neo4j.com/docs/cypher-refcard/current/)
 - [Developer resources](https://neo4j.com/developer/get-started/)
-- [Gists](http://graphgist.neo4j.com/) - With Neo4j GraphGists you can describe and model your domain in a simple text file and render it as a rich, interactive page in any browser. Perfect to document a specific domain, use-case, question or graph problem.
 - [Neo4j Examples](https://github.com/neo4j-examples) - Examples for Neo4j and Library Usage.
 
-# Related project
+
+# Essential Websites
+
+## Neo4j Official
+
+- [neo4j.com](https://neo4j.com)
+- [Neo4j Aura](https://console.neo4j.io)
+- [Neo4j Forums](https://community.neo4j.com)
+- [Neo4j Discord Chat](https://discord.com/invite/neo4j)
+
+## Feature Requests
+
+- [Neo4j Aura](https://neo4j-aura.canny.io)
+- [Neo4j Desktop](https://neo4j-desktop.canny.io)
+- [Neo4j Bloom](https://neo4j-bloom.canny.io)
+- [Neo4j Browser](https://neo4j-browser.canny.io)
+
+## Good to Know
+
+- [Graph Gists](https://portal.graphgist.org) - Like data science notebooks for Neo4j
+- [Graph App Gallery](https://install.graphapp.io) - Applications you can install in Neo4j Desktop
+
+# Related projects
 
 - [openCypher](http://www.opencypher.org/) - openCypher is an open source project to bring a new public implementation of the industry’s most widely adopted graph query language: Cypher.
 - [Bolt Protocol](https://boltprotocol.org) - The Bolt network protocol is a highly efficient, lightweight client-server protocol designed for database applications.
@@ -208,21 +229,6 @@ Neo4j graph database.
 
 - [Neo4j Certification](https://neo4j.com/graphacademy/neo4j-certification/) - Become a Neo4j-Certified Professional.
 
-## Essential Websites
-
-### Neo4j Official
-
-- [neo4j.com](https://neo4j.com)
-- [Neo4j Aura](https://console.neo4j.io)
-- [Neo4j Forums](https://community.neo4j.com)
-- [Neo4j Discord Chat](https://discord.com/invite/neo4j)
-
-### Feature Requests
-
-- [Neo4j Aura](https://neo4j-aura.canny.io)
-- [Neo4j Desktop](https://neo4j-desktop.canny.io)
-- [Neo4j Bloom](https://neo4j-bloom.canny.io)
-- [Neo4j Browser](https://neo4j-browser.canny.io)
 
 # License
 
