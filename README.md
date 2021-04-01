@@ -9,9 +9,9 @@ Inspired by the `awesome-*` trend on GitHub.
 The goal is to build a categorized community-driven collection of very well-known resources.  
 Sharing, suggestions and contributions are always welcome!
 
-Thanks to all [contributors](https://github.com/Neueda/awesome-neo4j/graphs/contributors).
+Thanks to all [contributors](https://github.com/neo4j-contrib/awesome-neo4j/graphs/contributors).
 
-Maintained by [Neueda R&D](http://labs.neueda.com/).
+Maintained by Neo4j Developer Relations.
 
 Table of Contents
 =================
@@ -217,4 +217,3 @@ Neo4j graph database.
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Neueda R&D](https://github.com/Neueda) has waived all copyright and related or neighboring rights to this work.
