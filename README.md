@@ -4,9 +4,7 @@
 
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-[![Build Status](https://api.travis-ci.org/neo4j-contrib/awesome-neo4j.svg?branch=master )](https://travis-ci.org/neo4j-contrib/awesome-neo4j)
-
-A curated list of awesome [Neo4j](https://neo4j.com/) resources.  
+> A curated list of the best resources in the Neo4j community.  
 
 The goal is to build a categorized community-driven collection of very well-known resources.  
 Sharing, suggestions and contributions are always welcome!
@@ -16,6 +14,7 @@ Thanks to all [contributors](https://github.com/neo4j-contrib/awesome-neo4j/grap
 Maintained by Neo4j Developer Relations.
 
 ## Contents
+
 
 
 ## Basics
