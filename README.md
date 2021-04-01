@@ -208,10 +208,21 @@ Neo4j graph database.
 
 - [Neo4j Certification](https://neo4j.com/graphacademy/neo4j-certification/) - Become a Neo4j-Certified Professional.
 
-## Miscellaneous
+## Essential Websites
 
-- [Neo4j's Idea board](https://trello.com/b/2zFtvDnV/public-idea-board)
-- [Hardware Sizing Calculator](https://neo4j.com/hardware-sizing-calculator/)
+### Neo4j Official
+
+- [neo4j.com](https://neo4j.com)
+- [Neo4j Aura](https://console.neo4j.io)
+- [Neo4j Forums](https://community.neo4j.com)
+- [Neo4j Discord Chat](https://discord.com/invite/neo4j)
+
+### Feature Requests
+
+- [Neo4j Aura](https://neo4j-aura.canny.io)
+- [Neo4j Desktop](https://neo4j-desktop.canny.io)
+- [Neo4j Bloom](https://neo4j-bloom.canny.io)
+- [Neo4j Browser](https://neo4j-browser.canny.io)
 
 # License
 
